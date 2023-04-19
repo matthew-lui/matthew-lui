@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://matthewlui-portfolio-website.vercel.app/](https://matthewlui-portfolio-website.vercel.app/)
 
-- 📫 How to reach me **https://matthewlui-portfolio-website-matthew-lui.vercel.app/Contact**
+- 📫 How to reach me **https://matthewlui-portfolio-website.vercel.app/Contact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
